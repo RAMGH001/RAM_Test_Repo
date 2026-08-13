@@ -3,4 +3,4 @@ I will use this repository to learn how to change files from other programs such
 
 I wrote this sentence from RStudio. 
 
-And I wrote this sentence from GitHub. 
+And I wrote this sentence from GitHub. I should now be able to see this using RStudio. 
